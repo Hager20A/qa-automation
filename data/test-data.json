@@ -1,0 +1,17 @@
+{
+  "Profile": [
+    { "label": "User 45", "type": "select", "value": "Seven" },
+    { "label": "Region 25", "type": "text", "value": "Berlin" },
+    { "label": "Flag 51", "type": "checkbox", "value": true }
+  ],
+  "Permissions": [
+    { "label": "Password 62", "type": "text", "value": "SecurePass123" },
+    { "label": "Admin 71", "type": "checkbox", "value": true }
+  ],
+  "Settings": [
+    { "label": "Priority 6", "type": "select", "value": "Four" }
+  ],
+  "Notifications": [
+    { "label": "User 25", "type": "checkbox", "value": true }
+  ]
+}
